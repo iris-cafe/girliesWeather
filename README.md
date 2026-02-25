@@ -10,12 +10,17 @@
 ## 📸 GirlieBot en Acción
 No es por nada, pero ver el bot en acción es una fantasía, así que por aquí dejo algunos ejemplillos de como responde ollama según lo que le digas:
 
-![Pedir el tiempo en el bot](assets/PedirTiempo.png)
+<p align="center">
+  <img src="assets/PedirTiempo.png" width="60%" alt="Pedir tiempo"/>
+</p>
 
-![Historial y limpieza en el bot](assets/historial_limpiar.png)
+<p align="center">
+  <img src="assets/historial_limpiar.png" width="60%" alt="Historial"/>
+</p>
 
-![El mensaje por defecto en el bot](assets/mensajePorDefecto.png)
-
+<p align="center">
+  <img src="assets/mensajePorDefecto.png" width="60%" alt="Mensaje defecto"/>
+</p>
 
 ## 🧠 La Lógica Detrás del Outfit
 La idea del bot no es que solo repitiera datos técnicos, sino responder como tu bestie y tener memoria. 
