@@ -11,7 +11,7 @@
 No es por nada, pero ver el bot en acción es una fantasía, así que por aquí dejo algunos ejemplillos de como responde ollama según lo que le digas:
 
 <p align="center">
-  <img src="assets/PedirTiempo.png" width="60%" alt="Pedir tiempo"/>
+  <img src="assets/tiempo.png" width="60%" alt="Pedir tiempo"/>
 </p>
 
 <p align="center">
